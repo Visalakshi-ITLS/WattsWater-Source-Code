@@ -7,7 +7,7 @@
 <so_product_attribute name="SpecificationSheetURL-Web" value="http://media.wattswater.com/ES-A-4000B.pdf"/>
 </so_product>
 <so_product company="QAD-US" part_number="0061651" category="Valves.Backflow Preventers">
-<so_product_attribute name="ColorPhotoFileName_en-US" value=".tif.jpg"/>
+<so_product_attribute name="ColorPhotoFileName_en-US" value=".tjf.jpg"/>
 <so_product_attribute name="ColorPhotoURL_en-US" value="http://media.wattswater.com/UPC/Image/.tif.jpg"/>
 </so_product>
 </import_data>
