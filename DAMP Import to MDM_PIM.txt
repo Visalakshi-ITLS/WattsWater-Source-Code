@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import_data>
+<supplier_batch data_supplier="DAMP" batch_commit_required="false" compare_to_previous="false" use_shared_company="true" confirm_shared_company="false" auto_map_company="true" auto_create_company="true" use_shared_category="true" confirm_shared_category="false" auto_map_attribute="true" auto_create_attribute="true" auto_create_template="true" use_shared_unit="true" confirm_shared_unit="false" auto_map_unit="true" auto_create_unit="true" auto_map_association="true" auto_create_association="true" use_shared_company_assoc="true" confirm_shared_company_assoc="false" auto_map_company_assoc="true" auto_create_company_assoc="true" insert_product_completion_state="Under Construction" update_product_completion_state="Approved" delete_product_completion_state="Obsolete" confirm_deletes="false" delete_directive="deleteSetCompletionState" use_shared_associations="true" confirm_shared_associations="false" replace_product="false" update_copies_socategory="true" character_encoding="UTF-8" completion_job_name="Update search table" auto_classify_products="false" start_timestamp="9/16/2016 7:15:38 PM" move_unclassified_products="false"></supplier_batch><so_product company="QAD-US" part_number="0437511" category="Valves.Backflow Preventers">
+<so_product_attribute name="InstructionSheetFileName-Web" value="1915338.pdf"/>
+<so_product_attribute name="InstructionSheetURL-Web" value="http://media.wattswater.com/1915338.pdf"/>
+<so_product_attribute name="SpecificationSheetFileName-Web" value="ES-A-4000B.pdf"/>
+<so_product_attribute name="SpecificationSheetURL-Web" value="http://media.wattswater.com/ES-A-4000B.pdf"/>
+</so_product>
+<so_product company="QAD-US" part_number="0061651" category="Valves.Backflow Preventers">
+<so_product_attribute name="ColorPhotoFileName_en-US" value=".tif.jpg"/>
+<so_product_attribute name="ColorPhotoURL_en-US" value="http://media.wattswater.com/UPC/Image/.tif.jpg"/>
+</so_product>
+</import_data>
